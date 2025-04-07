@@ -1,5 +1,5 @@
 <?php
-    echo"hy";
+    echo"hy <br>" ;
     echo"namaste";
 
 ?>
